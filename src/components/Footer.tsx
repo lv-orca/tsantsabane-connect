@@ -119,7 +119,7 @@ const Footer = () => {
               <div className="flex items-start space-x-2">
                 <MapPin className="h-4 w-4 mt-1 text-primary-foreground/60" />
                 <div className="text-sm text-primary-foreground/80">
-                  123 Business District<br />
+                  30 8th Ave Postdene<br />
                   Postmasburg, Northern Cape<br />
                   8420, South Africa
                 </div>
@@ -127,13 +127,13 @@ const Footer = () => {
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4 text-primary-foreground/60" />
                 <span className="text-sm text-primary-foreground/80">
-                  +27 (0)53 123 4567
+                  +27 73 993 6024
                 </span>
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-primary-foreground/60" />
                 <span className="text-sm text-primary-foreground/80">
-                  info@tbbc.co.za
+                  info@tbbc.org.za
                 </span>
               </div>
             </div>
@@ -142,7 +142,7 @@ const Footer = () => {
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center">
           <p className="text-primary-foreground/60 text-sm">
-            © {new Date().getFullYear()} Tsantsabane Black Business Chambers. All rights reserved.
+            © {2025} Tsantsabane Black Business Chambers. All rights reserved.
           </p>
         </div>
       </div>
